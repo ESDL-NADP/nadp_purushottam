@@ -1,8 +1,0 @@
-#include <iostream>
-#include <string.h>
-
-int main()
-{
-   cout<< "Dream again!!! And never ever forget your dream....";
-   return 0;  
-}   
